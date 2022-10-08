@@ -1,5 +1,8 @@
 {
-    "type": "commonjs",
+  "scripts": {
+    "build": "tsc"
+  },
+  "type": "commonjs",
   "dependencies": {
     "dotenv": "^16.0.3",
     "telegraf": "^4.10.0",
